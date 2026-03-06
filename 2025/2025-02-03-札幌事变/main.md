@@ -1038,10 +1038,6 @@ xx：感觉我要成🤡了
 
 
 
-<font color="red">开团队友</font>
-
-
-
 #### 参考文献
 
 1. b站记录：https://www.bilibili.com/video/BV1y5PoeeEaX，视频本地留档：[聊天记录.flv](videos/v1.flv)
