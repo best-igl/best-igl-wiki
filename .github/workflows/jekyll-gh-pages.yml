@@ -36,7 +36,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: modify mulu
-        run: sed -i 's|href="/best-igl-wiki/|href="|g' 目录.html
+        run: sed -i 's|href="/best-igl-wiki/|href="|g' ./_site/目录.html
       - name: change index
         run: sudo cp ./_site/目录.html ./_site/index.html || echo "目录.html not found"
       - name: Upload artifact
