@@ -35,6 +35,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: change index
+        run: cp ./_site/目录.html ./_site/index.html || echo "目录.html not found"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
