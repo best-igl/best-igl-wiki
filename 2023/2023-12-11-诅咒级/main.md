@@ -44,10 +44,27 @@ cn国家队选拔结束，出征队伍确定。
 1. b站补档：[APEX/三明治\]“为什么没人问我愿不愿意去韩国比赛？”“我宁愿犯错也不愿意什么都不做！”_哔哩哔哩bilibili_APEX英雄](https://www.bilibili.com/video/BV16C4y1F7UQ/?spm_id_from=333.337.search-card.all.click&vd_source=9b7f04241cea83124be2b2943720ccd5)
 2. 卡吧记录：[【图片】三明治直播原话全记录【天才美少女卡莎吧】_百度贴吧](https://tieba.baidu.com/p/8784188103?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=qqfriend&client_type=2&client_version=12.29.1.1&st=1772439756&is_video=false&unique=4986DC9B49B793CD5E3F419F1AF118A0&&source=12_16_sharecard_a)
 3. liquidpedia ECEA 记录：[Esports Championships East Asia - 2023 - Liquipedia Apex Legends Wiki](https://liquipedia.net/apexlegends/Esports_Championships_East_Asia/2023)
+4. ecea国家文旅部批评，贴吧评论记录，第9楼：https://tieba.baidu.com/p/9919576469
 
 
 
 #### 补充
 
-- 2025-07-16：本人解构，甩锅弹幕：”纯粹跟弹幕对线上头了，当时以为是欢喜冤家嘴两句没什么 实际肯定也是想着兄弟成绩好的“。[【三明治】三明治被绿叶围攻正面回应诅咒级 纯粹跟弹幕对线上头了 当时以为是欢喜冤家嘴两句没什么 实际肯定也是想着兄弟成绩好的](https://www.bilibili.com/video/BV1EZutzSER2/?spm_id_from=333.337.search-card.all.click&vd_source=9b7f04241cea83124be2b2943720ccd5)
+##### dlc1
+
+2025-07-16：本人解构，甩锅弹幕：”纯粹跟弹幕对线上头了，当时以为是欢喜冤家嘴两句没什么 实际肯定也是想着兄弟成绩好的“。[【三明治】三明治被绿叶围攻正面回应诅咒级 纯粹跟弹幕对线上头了 当时以为是欢喜冤家嘴两句没什么 实际肯定也是想着兄弟成绩好的](https://www.bilibili.com/video/BV1EZutzSER2/?spm_id_from=333.337.search-card.all.click&vd_source=9b7f04241cea83124be2b2943720ccd5)
+
+
+
+##### dlc2
+
+2025-08-02：huge被清算
+
+小林放出ecea国家文旅部对huge的批评
+
+![merge](images/merge.png)
+
+3mz回复：
+
+![3mz回复](images/3mz回复.png)
 
