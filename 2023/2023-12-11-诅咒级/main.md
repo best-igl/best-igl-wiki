@@ -45,6 +45,8 @@ cn国家队选拔结束，出征队伍确定。
 2. 卡吧记录：[【图片】三明治直播原话全记录【天才美少女卡莎吧】_百度贴吧](https://tieba.baidu.com/p/8784188103?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=qqfriend&client_type=2&client_version=12.29.1.1&st=1772439756&is_video=false&unique=4986DC9B49B793CD5E3F419F1AF118A0&&source=12_16_sharecard_a)
 3. liquidpedia ECEA 记录：[Esports Championships East Asia - 2023 - Liquipedia Apex Legends Wiki](https://liquipedia.net/apexlegends/Esports_Championships_East_Asia/2023)
 4. ecea国家文旅部批评，贴吧评论记录，第9楼：https://tieba.baidu.com/p/9919576469
+5. 再次解构诅咒级-16点场 01.48.17开始：[【2026-04-01 16点场】一口三明治3Mz：先训练赛 晚上小孩怪！-斗鱼视频](https://v.douyu.com/show/ZB5Kv9gp4OlMa93x?ap=1)
+6. 再次解构诅咒级-b站切片：https://www.bilibili.com/video/BV14G9jBoEPP
 
 
 
@@ -67,4 +69,30 @@ cn国家队选拔结束，出征队伍确定。
 3mz回复：
 
 ![3mz回复](images/3mz回复.png)
+
+
+
+##### dlc3
+
+2026-04-01：huge再次解构诅咒级，回旋镖打到诅咒的自己
+
+完整记录：
+
+------
+
+【训练赛DF被推，3mz观战皮特、XX】
+
+JR：诅咒？哈哈！诅咒的谁啊？
+
+3mz直播间弹幕：爆了
+
+3mz：这有啥爆的？<font color="red">谁直播诅咒人啊</font>？我说实话，你这辈子最讨厌的人，你都不可能从直播里说出来，好吧。
+
+JR：偷偷埋在心里
+
+3mz：对啊，<font color="red">谁他妈直播诅咒人</font>？<font color="green">那都是背后你诅咒一下</font>。这话真没毛病好吧，真要是想那什么谁直播说呀。
+
+------
+
+时间：2026-04-01
 
